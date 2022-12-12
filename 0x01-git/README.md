@@ -1,2 +1,2 @@
-my coding journey
-This an updated version
+My code journey
+This an update
